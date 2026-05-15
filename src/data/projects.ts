@@ -36,30 +36,6 @@ const projects: Project[] = [
     github: "https://github.com/muskanchawla11/flowops",
     category: ["All", "Python"],
   }, {
-    id: 3,
-    title: "Anamoly Detection System",
-    description:
-      "A real-time anomaly detection system for Airtel's network traffic using an optimized Holt-Winters forecasting model in Python, deployed on Linux with Kafka, Elasticsearch, Zabbix, Grafana, and Prometheus to trigger intelligent alerts from TSA data.",
-    image: "/images/projects/anamoly-detection.png",
-    tags: [
-  "Anomaly Detection",
-  "TSA",
-  "Python",
-  "Kafka",
-  "Logstash",
-  "Zabbix",
-  "Elasticsearch",
-  "Grafana",
-  "Prometheus",
-  "Linux",
-  "Real-time Monitoring",
-  "DevOps",
-],
-    demo: "https://github.com/Anshu0707/anamoly-detection",
-    github: "https://github.com/Anshu0707/anamoly-detection",
-    category: ["All", "Python"],
-  }
-  ,{
     id: 4,
     title: "E-Sales",
     description:
@@ -106,28 +82,6 @@ const projects: Project[] = [
     category: ["All", "MERN"],
   }
  ,
-    {
-    id: 7,
-    title: "Bank Force",
-    description:
-      "A secure, automated, and insight-driven banking management solution built on the Salesforce CRM platform. This project simulates a production-grade banking system with fine-tuned access control, automated customer workflows, and rich data visualization for internal teams.",
-    image: "/images/projects/bank-force-2.png",
-    tags: [
-  "Salesforce CRM",
-  "Apex",
-  "Triggers",
-  "LWC",
-  "Reports",
-  "Dashboards",
-  "SOQL",
-  "Process Builder",
-]
-,
-    demo: "https://github.com/Anshu0707/bank-force",
-    github: "https://github.com/Anshu0707/bank-force",
-    category: ["All", "Salesforce"],
-  },
-  
    {
     id: 8,
     title: "Movie Recommender",
@@ -175,28 +129,6 @@ const projects: Project[] = [
     demo: "https://anshuman-weather-app.netlify.app/",
     github: "https://github.com/muskanchawla11/forecastly",
     category: ["All", "MERN"],
-  },
-  {
-    id: 10,
-    title: "Dine Mate",
-    description:
-      "A sleek, responsive restaurant table management app built with Vanilla JavaScript — no frameworks, no libraries. Features drag-and-drop ordering, live bill updates, and multi-table support. Fully functional UI using just HTML, CSS, and pure JS — fast, lightweight, and framework-free.",
-    image: "/images/projects/dine-mate.png",
-    tags: [
-  "Vanilla JavaScript",
-  "HTML",
-  "CSS",
-  "Drag and Drop",
-  "Restaurant POS",
-  "Table Management",
-  "Responsive UI",
-  "Frontend",
-  "DOM Manipulation",
-]
-,
-    demo: "https://dine-mate.netlify.app/",
-    github: "https://github.com/Anshu0707/dine-mate",
-    category: ["All"],
   },
   {
     id: 11,
